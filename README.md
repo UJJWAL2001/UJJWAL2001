@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL2001&layout=compact)](https://github.com/UJJWAL2001/github-readme-stats)
 
+## Technologies Known
+![](technologies.png)
+
 
 
 
